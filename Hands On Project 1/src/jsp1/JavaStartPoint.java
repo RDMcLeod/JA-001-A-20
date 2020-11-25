@@ -1,16 +1,16 @@
 package jsp1;
 
-
 public class JavaStartPoint {
-
-	/**
-	 * @param args
-	 */
-	public static void main(String[] args) {
-		int Hello_derrick = 5; 
+        //primative 
+		public static void main(String[] args) {
+		int Hello_derrick = 9; 
 		double  num2 = 5.0;
 		boolean b = false;
-		System.out.println(Hello_derrick);
+		char  c = '9' ;
+		String  str = "tim"
+		
+		System.out.println(hello_world);
+	
 		
 
 	  }
