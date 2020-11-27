@@ -5,9 +5,9 @@ public class JavaStartPoint {
 		int x = 5;
 	    int y = 7;
 	    int z = 56;
-	    int sum = x + y + z;
+	    int sum = x * y * z;
 	
-		System.out.println(x);
+		System.out.println(sum);
 
 	  }
 
