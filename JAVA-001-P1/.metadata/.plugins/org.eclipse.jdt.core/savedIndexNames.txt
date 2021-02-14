@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\acdesigner2012\Desktop\JA-001-A-20\.metadata\.plugins\org.eclipse.jdt.core
+3102472801.index
+1639505868.index
